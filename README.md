@@ -1,5 +1,5 @@
 
-## Hello, I'm Leticia Desiderio ^^
+## Hello, I'm Letícia Desiderio ^^
 
 - 💻 I’m currently working on the Back-End...
 - 📚 I am currently learning to develop with JavaScript....
