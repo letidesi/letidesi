@@ -15,7 +15,7 @@
   <img align="center" alt="Leti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leti-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic91/970a7a642d1ad0bc1256acf703f0cd0c.gif" height="150" style="border-radius:50px; border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+ <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic91/970a7a642d1ad0bc1256acf703f0cd0c.gif" height="150" style="border-radius:50px; border="0" alt="leti" /></a><br /><a href="https://picasion.com/"></a>
 </div>
   
   ##
