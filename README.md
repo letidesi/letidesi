@@ -4,7 +4,7 @@
 - 💻 I’m currently working on the Back-End...
 - 📚 I am currently learning to develop with JavaScript....
 - ⚡ Pronouns: She/Her
-- 🌈 About me: A black woman in search of a career in technology, I am currently studying to become a Jr. Programmer. I have a degree in Computer Science from Senac, taking a course in web development at {Reprograma}'s bootcamps.
+- 🌈 About me: A black woman, I am a back-end developer with over 2 years of experience in web development. In addition, I am a graduate of Senac's Technician in Computer Science and trained in back-end by {reprogram} bootcamp. I have solid programming knowledge, using the JavaScript language. Therefore, I am interested in the best development practices.
 
 <div align="center">
   <a href="https://github.com/letidesi">
