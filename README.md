@@ -4,7 +4,9 @@
 - 💻 I’m currently working on the Back-End...
 - 📚 I am currently learning to develop with JavaScript....
 - ⚡ Pronouns: She/Her
-- 🌈 About me: A black woman, I am a back-end programmer with more than 2 years of experience studying web development. In addition, I am a graduate of Senac's Technician in Computer Science and trained in back-end by {reprogram} bootcamp. I have solid programming knowledge, using the JavaScript language. Therefore, I am interested in the best development practices.
+- 🌈 About me: Graduated as a backend developer from Reprograma, Computer Technician from Senac, I have more than two years studying web development.
+I have solid programming knowledge, I develop Rest APIs, using HTML5, CSS3, JavaScript, Typescript, MongoDB, Node.js, Express and GIT/GitHub.
+I work with development best practices through BDD and TDD in my current position.
 
 <div align="center">
   <a href="https://github.com/letidesi">
