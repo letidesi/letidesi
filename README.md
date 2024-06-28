@@ -1,19 +1,44 @@
-
-## Hello, I'm Letícia Desiderio ^^
-
+## Hello, I'm Letícia Desiderio, aged 24 🏳️‍🌈
 - 💻 I’m currently working on the Back-End...
 - ⚡ Pronouns: She/Her
-- 🌈 About me:
-
+  
 Summary
+
 Backend developer with a degree from Reprograma and a
 course at Senac. 
 Passionate about technology and innovation, I have solid experience
-experience in languages such as C#, JavaScript and TypeScript, as well as Java and PHP.
-Java and PHP.
+experience in languages such as C#, JavaScript and TypeScript, as well as Java and PHP. 
 Working in technology motivates me to constantly seek personal and professional
 personal and professional development driven by the challenges
 present in our field.
+__________________________________________________________________________________________
+Experience
+
+BNP - Soluções em TI
+
+2 years 2 months
+
+Full Backend Developer
+
+February 2024 - Present (5 months)
+
+Current challenge consists of developing a system to manage
+professionals in the area of Culture.
+
+__________________________________________________________________________________________
+
+Academic background
+
+UNINTER International University Center
+Bachelor, Software Engineering - (September 2023 - September
+2027)
+
+Senac RJ
+Technical Education, Computer Science - (April 2019 - May 2021)
+
+Barão de Mauá State College
+High School - (January 2016 - December 2018)onal courses in the area of Culture.
+__________________________________________________________________________________________
 
 <div align="center">
   <a href="https://github.com/letidesi">
@@ -39,6 +64,6 @@ present in our field.
     
   ![Snake animation](https://github.com/letidesi/letidesi/blob/output/github-contribution-grid-snake.svg)
 </div>
-   
 
- 
+
+   
