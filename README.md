@@ -2,15 +2,18 @@
 ## Hello, I'm Letícia Desiderio ^^
 
 - 💻 I’m currently working on the Back-End...
-- 📚 I am currently learning to develop with JavaScript....
 - ⚡ Pronouns: She/Her
 - 🌈 About me:
-  My name is Letícia Desiderio, I'm 23 years old and I work as a backend developer at BNP Soluções em TI. At the moment, I'm a full-stack developer, currently focusing on the C# language. My professional background also                     includes experience with other languages, such as JavaScript and TypeScript, as well as previous knowledge of Java and PHP, acquired along the way.
 
-  Throughout my education, I obtained the title of backend developer from Reprograma and completed a technical course in Computer Science at Senac. My technical skills include mastery of tools such as SQL Server, MongoDB                    and MySQL, giving me outstanding competence in the NoSQL universe.
-
-  My expertise is in developing Rest APIs, using a variety of technologies such as HTML5, CSS3, MongoDB, Node.js, Express and GIT/GitHub. Professionally, I adopt the best development practices, applying BDD and TDD to                       ensure the quality and robustness of the solutions I develop.
-  In short, I'm a committed and capable professional, with a solid educational base and extensive practical experience in backend development. I am constantly seeking to improve my skills and keep up to date with the latest                 market trends and technologies.
+Summary
+Backend developer with a degree from Reprograma and a
+course at Senac. 
+Passionate about technology and innovation, I have solid experience
+experience in languages such as C#, JavaScript and TypeScript, as well as Java and PHP.
+Java and PHP.
+Working in technology motivates me to constantly seek personal and professional
+personal and professional development driven by the challenges
+present in our field.
 
 <div align="center">
   <a href="https://github.com/letidesi">
