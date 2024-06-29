@@ -1,7 +1,5 @@
 ## Hello, I'm Letícia Desiderio, aged 24 🏳️‍🌈
-- 💻 I’m currently working on the Back-End...
-- ⚡ Pronouns: She/Her
-  
+
 Summary
 
 Backend developer with a degree from Reprograma and a
